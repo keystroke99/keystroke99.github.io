@@ -6,6 +6,12 @@
         <meta name="description" content="" />
         <meta name="author" content="" />
         <title>Rohini Kumar Damuluri</title>
+        <meta property="og:title" content="Hire Me - Rohini Kumar D" />
+        <meta property="og:url" content="https://keystroke99.github.io/" />
+        <meta property="og:image" content="assets/img/Rohini-Kumar.jpg" />
+        <meta property="og:description" content="A Website about my Technical Profile and Experience!" />
+        <meta property="og:site_name" content="My Portfolio" />
+
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
