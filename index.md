@@ -69,7 +69,7 @@
                 <!-- About Section Content-->
                 <div class="row">
                     <div>
-                        <ul class="lead">
+                        <ul class="lead" style="color:white">
                             <li>Having 4 years of experience in Web Application Development.</li>
                             <li>Worked on NodeJS, ExpressJS, MongoDB, JavaScript.</li>
                             <li>Experience interacting with and building web APIs. Experience with
